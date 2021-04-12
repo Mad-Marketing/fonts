@@ -1,0 +1,200 @@
+@font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBold.eot');
+    src: local('JG-rob ExtraBold'), local('JG-rob-ExtraBold'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBold.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBold.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-Heavy.eot');
+    src: local('JG-rob Heavy'), local('JG-rob-Heavy'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Heavy.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Heavy.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-LightItalic.eot');
+    src: local('JG-rob Light Italic'), local('JG-rob-LightItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-LightItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-LightItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-ThinItalic.eot');
+    src: local('JG-rob Thin Italic'), local('JG-rob-ThinItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ThinItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ThinItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-BlackItalic.eot');
+    src: local('JG-rob Black Italic'), local('JG-rob-BlackItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-BlackItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-BlackItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-BoldItalic.eot');
+    src: local('JG-rob Bold Italic'), local('JG-rob-BoldItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-BoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-BoldItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBold.eot');
+    src: local('JG-rob SemiBold'), local('JG-rob-SemiBold'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBold.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLightItalic.eot');
+    src: local('JG-rob UltraLight Italic'), local('JG-rob-UltraLightItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLightItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBoldItalic.eot');
+    src: local('JG-rob SemiBold Italic'), local('JG-rob-SemiBoldItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBoldItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-Light.eot');
+    src: local('JG-rob Light'), local('JG-rob-Light'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Light.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Light.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-MediumItalic.eot');
+    src: local('JG-rob Medium Italic'), local('JG-rob-MediumItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-MediumItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-MediumItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBoldItalic.eot');
+    src: local('JG-rob ExtraBold Italic'), local('JG-rob-ExtraBoldItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBoldItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-Regular.eot');
+    src: local('JG-rob Regular'), local('JG-rob-Regular'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Regular.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Regular.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-HeavyItalic.eot');
+    src: local('JG-rob Heavy Italic'), local('JG-rob-HeavyItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-HeavyItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-Medium.eot');
+    src: local('JG-rob Medium'), local('JG-rob-Medium'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Medium.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Medium.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-RegularItalic.eot');
+    src: local('JG-rob Regular Italic'), local('JG-rob-RegularItalic'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-RegularItalic.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-RegularItalic.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLight.eot');
+    src: local('JG-rob UltraLight'), local('JG-rob-UltraLight'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLight.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLight.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-Bold.eot');
+    src: local('JG-rob Bold'), local('JG-rob-Bold'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Bold.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Bold.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-Thin.eot');
+    src: local('JG-rob Thin'), local('JG-rob-Thin'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Thin.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Thin.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JG-rob';
+    src: url('https://github.com/Mad-Marketing/fonts/JG-rob-Black.eot');
+    src: local('JG-rob Black'), local('JG-rob-Black'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Black.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Black.woff') format('woff'),
+      url('https://github.com/Mad-Marketing/fonts/JG-rob-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
